@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    padding: 125px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffef92;
+    max-width: 400px;
+    height: 400px; 
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: #ee3609;
+    color: #000000;
+}
+h2 {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-shadow: 0cap;
+font-size: 24px;
+
+}
+
+form {
+    margin-top: 20px;
+}
+
+input[type="text"],
+input[type="password"] {
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+input[type="submit"] {
+    padding: 12px;
+    margin: 10px 0;
+    background-color: #FF7A00;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 420px;
+    cursor: pointer;
+}
+
+.options {
+    margin-top: 30px;
+    margin: 10px 100px 10px 10px;
+}
+
+a {
+    color: #FF7A00;
+    text-decoration: none;
+}
+
+.social-buttons-facebook  {
+    margin-top: 30px;
+    float: left;
+    background-color: #ccc;
+}
+
+.social-buttons-google {
+    margin: 12px 10px 0px 0px;
+    
+   
+
+}
+
+.social-buttons-apple {
+    margin: -38px 0px 0px 300px;
+    
+
+}
+
+
+
+
+p {
+    margin: 50px -70px 0px 0px;
+    color: #666;
+}

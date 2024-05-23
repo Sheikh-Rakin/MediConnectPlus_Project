@@ -1,0 +1,19 @@
+body{
+    background-image: url(mediconnectback4.jpg);
+    background-size: cover;
+}
+.row2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 220px 0px 0px 0px;
+}
+h1{
+    color: orangered;
+    font-size: 50px;
+}
+h3{
+    color: yellowgreen;
+    font-size: 30px;
+}
+

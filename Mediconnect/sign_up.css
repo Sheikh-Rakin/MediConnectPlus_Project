@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    padding: 125px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffef92;
+    max-width: 400px;
+    height: 550px; 
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: -100px;
+    color: #000000;
+}
+h2{
+    font-size: 16px;
+    margin-top: -10px;
+}
+
+.social-buttons-facebook  {
+    margin-top: -8px;
+    float: left;
+    background-color: #ccc;
+}
+
+.social-buttons-google {
+ 
+    margin: -8px 100px 0px 0px;
+    
+   
+
+}
+
+.social-buttons-apple {
+    margin: -38px 0px 0px 300px;
+    
+
+}
+
+.social-buttons button {
+    padding: 12px 20px;
+    margin: 0 5px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.or {
+    font-size: 28px;
+    margin: 5px 0;
+    color: #000000;
+}
+
+form {
+    text-align: left;
+    margin-top: 5px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="tel"],
+form input[type="date"],
+form select,
+form input[type="password"] {
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+form select {
+    width: 105%;
+}
+
+form input[type="submit"] {
+    padding: 12px;
+    margin: 20px 0;
+    background-color: #FF7A00;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 105%;
+    cursor: pointer;
+}
+.a{
+    color: #FF7A00;
+}

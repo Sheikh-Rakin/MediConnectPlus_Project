@@ -1,0 +1,80 @@
+/* Add your styles for the profile page here */
+.profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.profile-picture img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.profile-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-box {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-box strong {
+    margin-right: 10px;
+    width: 100px;
+}
+
+.edit-profile-btn {
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+
+.edit-profile-btn button {
+    background-color: #FFC38C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+
+.logout-btn {
+    margin-top: 20px;
+}
+
+.logout-btn a {
+    background-color: #FFC38C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.logout-btn a:hover {
+    background-color: #FFC38C;
+    border-radius: 10px;
+}
+
+/* Additional styles for the layout */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    padding-bottom: 60px;
+}

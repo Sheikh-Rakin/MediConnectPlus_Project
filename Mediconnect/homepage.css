@@ -1,0 +1,122 @@
+.parent{
+    background-color: white;
+    background-size: cover;
+    /* width: 1500px;
+    height: 900px; */
+}
+.header{
+    /* width: 1500px; */
+    height: 80px;
+    background-color: rgb(149, 239, 239);
+}
+ul{
+    overflow: auto;
+    /* margin: 0px 400px 0px 0px; */
+}
+
+li{
+    float: right;
+    list-style: none;
+    padding: 10px 10px;
+   
+}
+.header_img{
+    float: left;
+    width:400px;
+    height: 80px;
+    background-color: brown;
+}
+.left1{
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin: 100px 0px 0px 140px;
+    background-color: aqua;
+    background-image: url(bbdms/images/BloodBank.jpg);
+}
+.right1{
+    width: 1000px;
+    height: 200px;
+    float: right;
+    margin: 100px 100px 0px 0px;
+    background-color: white;
+    
+}
+.right1_left{
+    width: 300px;
+    height: 200px;
+    float: left;
+    background-color: rebeccapurple;
+}
+.right1_right{
+    width: 300px;
+    height: 200px;
+    float: right;
+    background-color: red;
+}
+.left2{
+    width: 400px;
+    height: 200px;
+    margin: 260px 0px 0px 0px;
+    background-color: red;
+    float: left;
+}
+.right1_left2{
+    width: 300px;
+    height: 200px;
+    margin: 300px 0px 0px 0px;
+    background-color: palevioletred;
+    float: left;
+
+}
+.right1_right2{
+    width: 300px;
+    height: 200px;
+    margin: 300px 0px 0px 0px;
+    background-color: palevioletred;
+    float: right;
+}
+.last{
+    width: 1880px;
+    height: 500px;
+    background-color: blueviolet;
+    margin: 700px 0px 0px 0px;
+}
+.t{
+    width: 500px;
+    height: 80px;
+    margin: 0px 0px 0px 670px;
+}
+.leftt{
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin: 0px 0px 0px 100px;
+    background-color: rgb(78, 205, 31);
+}
+.rightt{
+    width: 1000px;
+    height: 200px;
+    float: right;
+    background-color: blueviolet;
+    margin: 0px 100px 0px 0px;
+}
+.rightt_left{
+    width: 300px;
+    height: 200px;
+    float: left;
+    background-color: palevioletred;
+}
+.rightt_right{
+    width: 300px;
+    height: 200px;
+    float: right;
+    background-color: palevioletred;
+}
+.link1{
+    font-size: 60px;
+    /* margin: 200px 0px 0px 0px; */
+    width: 300px;
+    height: 40px;
+    color: red;
+}

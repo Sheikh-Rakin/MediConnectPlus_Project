@@ -1,0 +1,96 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFC38C;
+    color: #000000;
+    padding: 10px;
+    /* height: 130px; */
+  }
+  
+  .logo img {
+    width: 350px;
+    height: 60px;
+  }
+  
+  .home{
+    list-style: none;
+    margin: 0px 0px 0px 700px;
+    padding: 0;
+    color: #fff;
+
+  }
+
+  .home a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .services {
+    position: relative;
+    margin: 0px 0 0 10px ;
+    padding-right: -100px;
+  }
+  
+  .expandable-btn {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 12px;
+  }
+  
+  .expanded-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #FFC38C;
+    padding: 8px;
+    display: none;
+  }
+  
+  .expanded-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .expanded-menu li {
+    margin-bottom: 8px;
+  }
+  
+  .expanded-menu a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .services:hover .expanded-menu {
+    display: block;
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    margin-left: 20px;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+  }
+  a{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .s{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+ 
+  

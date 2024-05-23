@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .content {
+    padding-bottom: 60px; 
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
